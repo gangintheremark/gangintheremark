@@ -1,6 +1,4 @@
-- 👋 Hi, I’m gang
-- 👀 I’m currently learning JAVA.
-
+![header](https://capsule-render.vercel.app/api?type=spft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
