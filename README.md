@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gang
-- 👀 I’m currently learning JAVA
+- 👀 I’m currently learning JAVA.
 
 
 <!---
