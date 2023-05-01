@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#FF7C80&height=300&section=header&text=gangintheremark&fontSize=90&animation=twinkling&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=#FF7C80&height=300&section=header&text=gangintheremark&fontSize=90&animation=twinkling)
 
 
 
