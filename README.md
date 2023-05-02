@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=화이팅&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=파이팅✍✍✍✍&fontSize=90&animation=twinkling)
 
 
 부엉부엉부엉이 🦉
