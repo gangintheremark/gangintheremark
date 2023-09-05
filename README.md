@@ -1,9 +1,9 @@
 <!-- ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangintheremark&show_icons=true&theme=dracula) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangintheremark&layout=compact&theme=dracula) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/) -->
 
 
-
+<!--
 # Tech Stacks
 ### used as the main 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
-<!--
+
 ### used at least once
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
