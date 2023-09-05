@@ -31,5 +31,4 @@
 ![intellijidea](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
  -->
-# Blog
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-ECD53F?style=flat&logoColor=white)]("https://gangintheremark.tistory.com/")
+
