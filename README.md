@@ -4,8 +4,6 @@
 
 <div align=center>
 
-## Hi there 👋
-
 <img src="https://velog.velcdn.com/images/gangintheremark/post/4e3da295-c1ac-436b-a0a7-c5f28795d04e/image.gif" width=auto height="67">
 
 <a href="https://velog.io/@gangintheremark" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
