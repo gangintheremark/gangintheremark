@@ -19,15 +19,15 @@
 
 ## Used as the Main
 <img src="https://img.shields.io/badge/Java-white?style=fot-the-badge&logo=JAVA&logoColor=007396"> 
-<img src="https://img.shields.io/badge/Spring Boot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F"> 
+<img src="https://img.shields.io/badge/SpringBoot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F"> 
 
 ## TECH STACK
 <img src="https://img.shields.io/badge/C-white?style=fot-the-badge&logo=C&logoColor=A8B9CC"> 
 <img src="https://img.shields.io/badge/Java-white?style=fot-the-badge&logo=Java&logoColor=007396"> 
 <img src="https://img.shields.io/badge/JavaScript-white?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/JQuery-white?style=fot-the-badge&logo=JQuery&logoColor=0769AD">
-<img src="https://img.shields.io/badge/Spring Boot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F">  
-<img src="https://img.shields.io/badge/Spring Security-white?style=fot-the-badge&logo=Spring Security&logoColor=6DB33F"><br>
+<img src="https://img.shields.io/badge/SpringBoot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F">  
+<img src="https://img.shields.io/badge/SpringSecurity-white?style=fot-the-badge&logo=Spring Security&logoColor=6DB33F"><br>
 <img src="https://img.shields.io/badge/HTML5-white?style=fot-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-white?style=fot-the-badge&logo=CSS3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/Bootstrap-white?style=fot-the-badge&logo=Bootstrap&logoColor=7952B3">  
