@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/velog-white?style=fot-the-badge&logo=velog&logoColor=20C997"> </a>
 
 ## Used as the Main
-<img src="https://img.shields.io/badge/Java-white?style=fot-the-badge&logo=OpenJDK&logoColor=007396"> 
+<img src="https://img.shields.io/badge/Java-white?style=fot-the-badge&logo=JAVA&logoColor=007396"> 
 <img src="https://img.shields.io/badge/Spring Boot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F"> 
 
 ## TECH STACK
@@ -41,11 +41,13 @@
 
 
 ## Certificate
-SQLD 23.10.06 <br>
-정보처리기사 22.04.10 <br>
-블록체인 전문가 2급 `민간` 23.06.10 <br>
-컴퓨터활용능력 1급 22.04.22 <br>
+정보처리기사 <br>
+SQLD <br>
+블록체인 전문가 2급 `민간` <br>
+컴퓨터활용능력 1급  <br>
 
+
+---
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/)
 
