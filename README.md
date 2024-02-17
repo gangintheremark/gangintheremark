@@ -39,13 +39,16 @@
 <img src="https://img.shields.io/badge/GitHub-white?style=fot-the-badge&logo=GitHub&logoColor=181717"> 
 <img src="https://img.shields.io/badge/GitLab-white?style=fot-the-badge&logo=GitLab&logoColor=FC6D26"> 
 
-<br>
+
+## Certificate
+SQLD 23.10.06 <br>
+정보처리기사 22.04.10 <br>
+블록체인 전문가 2급 `민간` 23.06.10 <br>
+컴퓨터활용능력 1급 22.04.22 <br>
+
 
 ---
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/) 
- 
-
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/
 
 </div>
