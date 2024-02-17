@@ -47,8 +47,6 @@ SQLD 23.10.06 <br>
 컴퓨터활용능력 1급 22.04.22 <br>
 
 
----
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/)
 
 </div>
