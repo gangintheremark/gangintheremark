@@ -45,4 +45,6 @@
 SQLD <br>
 블록체인 전문가 2급 `민간` <br>
 
+![](https://velog.velcdn.com/images/gangintheremark/post/93198c3e-cdb7-4f62-80e0-b31dd07897aa/image.gif)
+
 </div>
