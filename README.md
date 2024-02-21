@@ -6,11 +6,8 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/)
 
- 
- <!--
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gangintheremark)
--->
-
+ 
 ## My Blog 
 <a href="https://gangintheremark.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/tistory-white?style=fot-the-badge&logo=tistory&logoColor=FC6D26"> </a>
