@@ -4,6 +4,12 @@
 
 👋 Hi, I'm nam gyeong min
 
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/lines/gangintheremark" width="1000" height="60"/>
+</a>
+
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/)
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gangintheremark)
