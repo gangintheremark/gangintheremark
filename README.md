@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/SpringSecurity-white?style=fot-the-badge&logo=Spring Security&logoColor=6DB33F"><br>
 <img src="https://img.shields.io/badge/HTML5-white?style=fot-the-badge&logo=HTML5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-white?style=fot-the-badge&logo=CSS3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/Bootstrap-white?style=fot-the-badge&logo=Bootstrap&logoColor=7952B3">  
+<img src="https://img.shields.io/badge/Vue.js-white?style=fot-the-badge&logo=HTML5&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Selenium-white?style=fot-the-badge&logo=Selenium&logoColor=43B02A">
 <img src="https://img.shields.io/badge/Thymeleaf-white?style=fot-the-badge&logo=Thymeleaf&logoColor=005F0F">  <br>
 <img src="https://img.shields.io/badge/Oracle-white?style=fot-the-badge&logo=Oracle&logoColor=F80000"> 
