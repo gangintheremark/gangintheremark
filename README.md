@@ -20,7 +20,9 @@
 
 ## Used as the Main
 <img src="https://img.shields.io/badge/Java-white?style=fot-the-badge&logo=JAVA&logoColor=007396"> 
-<img src="https://img.shields.io/badge/SpringBoot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F"> 
+<img src="https://img.shields.io/badge/SpringBoot-white?style=fot-the-badge&logo=Spring Boot&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/Vue.js-white?style=fot-the-badge&logo=vuedotjs&logoColor=4FC08D">
+
 
 ## TECH STACK
 <img src="https://img.shields.io/badge/C-white?style=fot-the-badge&logo=C&logoColor=A8B9CC"> 
