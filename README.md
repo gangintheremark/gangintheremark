@@ -10,7 +10,8 @@
     <img src = "https://render.gitanimals.org/farms/gangintheremark"/>
 </a> -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gangintheremark)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/) 
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gangintheremark) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=min959595)](https://solved.ac/min959595/) 
  
 ## My Blog 
 <a href="https://gangintheremark.tistory.com/" target="_blank">
